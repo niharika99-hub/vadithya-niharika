@@ -1,5 +1,5 @@
 # vadithya-niharika
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="portfolio.css">
 </head>
 <body>
-    niharika.jpg
+    <img src="niharika.jpg"alt=myimage>
     
 <h1 class="h1" >Hey!This is<br> <b>NIHARIKA VADITHYA</b></h1>
 
