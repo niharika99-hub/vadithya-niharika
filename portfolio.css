@@ -9,7 +9,14 @@ body{background-image:url(backgroundimage.jpg);image:url(niharika.jpg);}
   padding-top: 0%;
 
 }
-
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.item{
+  flex: 11300px;
+}
 
 a{
   margin-top:5px;
@@ -17,7 +24,7 @@ a{
 }
 img{margin-right: 70%;
   margin-top: 0px;
-  
+  max-width: 100%;
   
     width: 20%;
     height: 20% ;
