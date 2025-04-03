@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="portfolio.css">
 </head>
 <body>
-    <img src="niharika.jpg"alt="myimage">
+    niharika.jpg
     
 <h1 class="h1" >Hey!This is<br> <b>NIHARIKA VADITHYA</b></h1>
 
